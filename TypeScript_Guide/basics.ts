@@ -1,0 +1,2 @@
+// primitives : number, string, boolean
+ 
